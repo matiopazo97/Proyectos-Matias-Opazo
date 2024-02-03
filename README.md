@@ -1,4 +1,4 @@
-#¡Bienvenidos a mi Repositorio de Github!
+¡Bienvenidos a mi Repositorio de Github!
 
 Hola a todos, soy Matías Opazo Fernández, un estudiante de segundo año de la carrera de Ingeniería en Informática. Me complace enormemente compartir con ustedes mis progresos y proyectos realizados en este apasionante campo de estudio.
 
